@@ -37,7 +37,7 @@ function App() {
       <Button onClick={() => setView(route.pop())}>Back</Button>
       <Table striped bordered hover>
         <thead>
-        <tr>
+        <tr className="header">
           <th onClick={() => handleSort('type')}>Type</th>
           <th onClick={() => handleSort('name')}>Name</th>
           <th onClick={() => handleSort('added')}>Added</th>
