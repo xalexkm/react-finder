@@ -23,6 +23,23 @@
         "type": "doc",
         "name": "Fuel allowances",
         "added": "2017-05-03"
+      },
+      {
+        "type": "folder",
+        "name": "Tricks",
+        "files":
+        [
+          {
+            "type": "avi",
+            "name": "Cards",
+            "added": "2017-02-02"
+          },
+          {
+            "type": "mp4",
+            "name": "Magic Stick",
+            "added": "2017-09-03"
+          }
+        ]
       }
     ]
   },
